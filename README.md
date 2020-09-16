@@ -1,4 +1,4 @@
 # Docs
 
-Documentation for Guard Discord bot.
+Website for Guard Discord bot. Currently in development.
  
