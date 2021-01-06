@@ -1,0 +1,8 @@
+{
+  "name": "discordguard.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/discordguard/discordguard.github.io.git",
+  "author": "Shift <shiftkeydeveloper@gmail.com>",
+  "license": "MIT"
+}
